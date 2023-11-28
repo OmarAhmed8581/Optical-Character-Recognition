@@ -3,5 +3,5 @@
 Zonal OCR then displays and extracts to Excel finally generating the file.
 
 
-![image](https://github.com/OmarAhmed8581/OCR/assets/53855546/82f43807-0486-4b47-b41f-b945e01382a2)
+![Capture-portrait](https://github.com/OmarAhmed8581/Optical-Character-Recognition/assets/53855546/1bb52480-837c-46bd-9292-bd1dca4440fb)
 
